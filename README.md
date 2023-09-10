@@ -1,2 +1,2 @@
 # OpenAI
-Open AI Chatbots
+Open AI Voice Chatbots for e-commerce scenario
